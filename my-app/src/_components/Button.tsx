@@ -1,4 +1,4 @@
-import { ButtonType } from "@/app/type/type";
+import { ButtonType } from "@/type/type";
 import Image from "next/image";
 
 export default function ButtonComponent({
